@@ -1,0 +1,11 @@
+ai_players:
+- name: dylan-fish
+  path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/fish_player.py"
+- name: billy-fish
+  path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/fish_player.py"
+ante: 0
+blind_structure: null
+initial_stack: 100
+max_round: 10
+small_blind: 10
+
