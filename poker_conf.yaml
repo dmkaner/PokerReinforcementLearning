@@ -3,9 +3,15 @@ ai_players:
   path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/fish_player.py"
 - name: billy-fish
   path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/fish_player.py"
+- name: joe-rand
+  path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/random_player.py"
+- name: jimmy-honest
+  path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/honest_player.py"
+- name: jeff-honest
+  path: "/Users/dyl/Documents/Code/Poker Code/PokerEnvCode/honest_player.py"
 ante: 0
 blind_structure: null
-initial_stack: 100
+initial_stack: 1000
 max_round: 10
-small_blind: 10
+small_blind: 20
 
